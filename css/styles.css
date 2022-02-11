@@ -1,0 +1,114 @@
+h1 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 900;
+	line-height: 1.5;
+	font-size: 3rem;
+}
+h2 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	font-size: 2.4rem;
+}
+
+/* TITLE */
+
+#title{
+	background: #000000;
+	color: white;
+	min-width: 720px;
+	overflow: hidden;
+    position: center;
+}
+
+.container {
+	margin: 2% 7%;
+}
+#E.T.I{
+	transform: rotate(25deg);
+	padding: -0.5;
+}
+.favicon img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+
+/* NAVBAR */
+
+.navbar {
+	margin: 0 0 2rem;
+}
+
+.navbar-brand {
+	font-size: 2rem;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: bold;
+}
+
+.nav-item {
+	margin: 0 18px;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1.2rem;
+	font-weight: 400;
+}
+
+/* FEATURES */
+
+#About {
+	text-align: center;
+	padding: 10vw 0;
+	background: white;
+	position: relative;
+	z-index: 1;
+}
+
+#About p {
+	color: #8f8f8f;
+	font-size: 1.2rem;
+	margin: 0 3vw;
+}
+
+#About h3 {
+	font-style: 'Montserrat', sans-serif;
+	font-weight: bold;
+}
+
+#About i {
+	color: #000000;
+	font-size: 4rem;
+	margin-bottom: 1vw;
+}
+#About i:hover {
+	color: #000000;
+}
+
+.features-group {
+	margin-bottom: 3vw;
+}
+
+/* Pictures */
+
+#Pictures {
+	text-align: center;
+	background:#000000;
+	padding-bottom: 3vw;
+}
+
+.Pictures-logo {
+	width: 40%;
+	margin: 40px 40px 50px;
+}
+
+/* Contact us*/
+#footer {
+	text-align: center;
+	color: #000000;
+	padding: 5%;
+}
+
+#footer i {
+	margin: 1% 2% 3% 4%;
+	color: black;
+}
